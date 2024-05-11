@@ -37,7 +37,7 @@ Open Terminal in VS Code. To Open the terminal click on Terminal in the top menu
 
 Go to the terminal and run the command :
         npm init playwright@latest
-After you run this command it will ask you 4 things:
+After you run this command it will ask you 4 things: 
 1. Do you want to use Typescript or JavaScript? → I am using typescript. If you want to use Javascript press the arrow key and click Enter
 2. Where to put your end-to-end tests? → Its a free-form text you can name it anything. I have named it tests
 3. Add a GitHub Actions workflow? → Press y if you want to add it and enter
