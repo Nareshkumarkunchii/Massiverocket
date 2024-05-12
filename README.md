@@ -60,5 +60,20 @@ To run the test run the below command in VS Code Terminal
         
 
 
+
+
+
+
+
+# Task 2 : QA Strategy Document for a New Feature : 
+
+
+Here is the Document that gives QA Strategy document for The TodoMVC application plans to introduce a "Priority Tagging" feature, allowing users to assign priority levels (High, Medium, Low) to their todos.
+
+
+Link : https://docs.google.com/document/d/1F12ME9L8ecrgGdJM4RUPmejzf2Ik3VZkU9rZDVv31E0/edit?usp=sharing
+
+
+
         
 
